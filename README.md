@@ -1,3 +1,5 @@
+Telegram: `@explosives`
+
 PGP fingerprint (https://keys.openpgp.org/):
 ```
 FFCF 3449 F66C 319D 54A9
