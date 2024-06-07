@@ -7,5 +7,5 @@ FFCF 3449 F66C 319D 54A9
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 500vw; opacity: 0.5; background: url('https://github.com/dropout1337/dropout1337/blob/main/pepe.webp?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 500vw; opacity: 0.2; background: url('https://github.com/dropout1337/dropout1337/blob/main/pepe.webp?raw=true');]{x0000}$}
 
